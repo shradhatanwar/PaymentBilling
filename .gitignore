@@ -1,0 +1,8 @@
+/target/
+
+
+
+# ignore an entire directory
+/.settings/
+.project
+.classpath
